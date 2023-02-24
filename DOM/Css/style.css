@@ -1,0 +1,38 @@
+/* body */
+
+body{
+    background-color: #060047; 
+}
+
+.container{
+    text-align: center;
+    font-size: 5rem;
+    color: #8BF5FA;
+    font-family: 'Handlee', cursive;
+}
+
+/* dices */
+.dice{
+    color: #8BF5FA;
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+}
+.img1{
+    width: 20%;
+}
+.heading5{
+    text-align: right;
+}
+
+/* table */
+.tableData{
+    text-align: right;
+}
+
+/* copyright */
+
+h5{
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+}
